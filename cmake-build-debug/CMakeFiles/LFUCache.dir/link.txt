@@ -1,3 +1,0 @@
-C:\CMake\bin\cmake.exe -E remove -f CMakeFiles\LFUCache.dir/objects.a
-C:\mingw32\bin\ar.exe cr CMakeFiles\LFUCache.dir/objects.a @CMakeFiles\LFUCache.dir\objects1.rsp
-C:\mingw32\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\LFUCache.dir/objects.a -Wl,--no-whole-archive  -o LFUCache.exe -Wl,--out-implib,libLFUCache.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LFUCache.dir\linklibs.rsp
